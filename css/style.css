@@ -1,7 +1,7 @@
 /*
 * Template Name: Space
-* Template Author: Untree.co
-* Author URI: https://untree.co/
+* Template Author: test.co
+* Author URI: https://test.co/
 * License: https://creativecommons.org/licenses/by/3.0/
 */
 body {
@@ -616,15 +616,15 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
 .burger:focus {
   outline: none; }
 
-.untree_co-section {
+.test_co-section {
   padding: 7rem 0; }
-  .untree_co-section .heading, .untree_co-section .subheading {
+  .test_co-section .heading, .test_co-section .subheading {
     color: #000000; }
-    .untree_co-section .heading strong, .untree_co-section .subheading strong {
+    .test_co-section .heading strong, .test_co-section .subheading strong {
       font-weight: 700; }
-  .untree_co-section .heading {
+  .test_co-section .heading {
     font-size: 40px; }
-  .untree_co-section .subheading {
+  .test_co-section .subheading {
     font-size: 18px;
     font-family: "PT Mono", monospace; }
 
